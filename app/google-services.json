@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "890333718719",
+    "firebase_url": "https://smsverificatiobygithub.firebaseio.com",
+    "project_id": "smsverificatiobygithub",
+    "storage_bucket": "smsverificatiobygithub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890333718719:android:20497e4838664f5e",
+        "android_client_info": {
+          "package_name": "com.example.gamtech.sms_verificatio_by_github"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890333718719-s4ubb3g3031u35uabh82aqe1l4us57jd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamtech.sms_verificatio_by_github",
+            "certificate_hash": "7591ebafe4e6e848d3bdd47dffcc138a89511dbc"
+          }
+        },
+        {
+          "client_id": "890333718719-egcb65bvl1pg20nc4lki25g7r5m4e42r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqa9rm9reNj9Gc5pN_PfPubYVctCUtEf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890333718719-egcb65bvl1pg20nc4lki25g7r5m4e42r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890333718719:android:4003c3e3f4c9661a",
+        "android_client_info": {
+          "package_name": "example.co.mz.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890333718719-9uqo8091hrv24b7qai4f9q33ic0eqj7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.co.mz.uberclone",
+            "certificate_hash": "45cf3568d3a6c018b83115cd563d67432e828be2"
+          }
+        },
+        {
+          "client_id": "890333718719-egcb65bvl1pg20nc4lki25g7r5m4e42r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqa9rm9reNj9Gc5pN_PfPubYVctCUtEf0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890333718719-egcb65bvl1pg20nc4lki25g7r5m4e42r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
